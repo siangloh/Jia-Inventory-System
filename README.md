@@ -65,7 +65,7 @@ Jia-Inventory-System/
 
 A big thank you to the following people who have contributed to the development of **Jia Inventory System**:
 
-1. **[Loh Keat Siang](https://github.com/siangloh)** – Project Owner, Lead Developer, Product Management, Dashboard, System Integration, Sidebar & Header  
+1. **[Loh Keat Siang](https://github.com/siangloh)** – Project Owner, Lead Developer, Product Management, Dashboard, System Integration
 2. **[Yeap Zi Jia](https://github.com/yeapzijia)** – Warehouse Management Module  
 3. **[Jacky Kong Kah Wei](https://github.com/jacky0981)** – Part Issues Module  
 4. **[Lee Gim Sheng](https://github.com/kelsongitlee)** – Product Inbound & Outbound Management
