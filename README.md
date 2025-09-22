@@ -40,13 +40,13 @@ This project was developed as part of a learning and practical implementation of
    - Part Issues - Product Issue and request
 4. Track product inventory in real-time
 
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 - Framework: Flutter
 - Backend / Database: Firebase Firestore and supabases
 - Language: Dart
 - Other tools: Android Studio
   
-#📂 Folder Structure
+## 📂 Folder Structure
 Jia-Inventory-System/
 ├── android/ # Native Android project files (Gradle configs, manifests)
 ├── ios/ # Native iOS project files (Xcode configs, plist)
