@@ -1,0 +1,43 @@
+# Build artifacts
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# APK files
+*.apk
+*.aab
+
+# Native libraries
+*.so
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Firebase
+firebase-debug.log
+firebase-debug.*.log
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Generated files
+*.g.dart
+*.freezed.dart
+*.mocks.dart
