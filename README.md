@@ -1,6 +1,6 @@
 # Jia Inventory System
 
-An inventory management system designed to simplify stock tracking, supplier management, and order handling.  
+An inventory management system designed to simplify stock tracking and order handling.  
 This project was developed as part of a learning and practical implementation of supply chain and inventory management concepts.  
 
 ---
