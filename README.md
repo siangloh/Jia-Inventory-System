@@ -46,19 +46,19 @@ This project was developed as part of a learning and practical implementation of
 - Other tools: Android Studio
   
 ## 📂 Folder Structure
-Jia-Inventory-System/
-
-├── android/ # Native Android project files (Gradle configs, manifests)
-├── ios/ # Native iOS project files (Xcode configs, plist)
-├── lib/ # Main Flutter source code
-│ ├── dao/ # Data Access Objects (database queries, business logic)
-│ ├── models/ # Data models (e.g., Product)
-│ ├── screens/ # UI screens / pages of the app
-│ ├── services/ # Business logic, APIs, and external service integration
-│ ├── widgets/ # Reusable UI components (buttons, navigation, headers)
-│ └── main.dart # Application entry point
-├── pubspec.yaml # Project dependencies and assets
-└── README.md # Project documentation
+```text
+├── android/         # Native Android project files (Gradle configs, manifests)  
+├── ios/             # Native iOS project files (Xcode configs, plist)  
+├── lib/             # Main Flutter source code  
+│   ├── dao/         # Data Access Objects (database queries, business logic)  
+│   ├── models/      # Data models (e.g., Product)  
+│   ├── screens/     # UI screens / pages of the app  
+│   ├── services/    # Business logic, APIs, and external service integration  
+│   ├── widgets/     # Reusable UI components (buttons, navigation, headers)  
+│   └── main.dart    # Application entry point  
+├── pubspec.yaml     # Project dependencies and assets  
+└── README.md        # Project documentation  
+```
 
 ## 🤝 Contributors
 
