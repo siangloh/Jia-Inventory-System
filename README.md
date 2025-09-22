@@ -47,6 +47,7 @@ This project was developed as part of a learning and practical implementation of
   
 ## 📂 Folder Structure
 ```text
+Jia-Inventory-System/
 ├── android/         # Native Android project files (Gradle configs, manifests)  
 ├── ios/             # Native iOS project files (Xcode configs, plist)  
 ├── lib/             # Main Flutter source code  
