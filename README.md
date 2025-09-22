@@ -20,7 +20,6 @@ This project was developed as part of a learning and practical implementation of
 1. **Clone the repository**  
    ```bash
    git clone https://github.com/siangloh/Jia-Inventory-System.git
-   cd Jia-Inventory-System
 2. **Install dependencies**
    ```bash
    flutter pub get
